@@ -5,7 +5,9 @@ Step 1, install NodeJS https://nodejs.org/es/download/
 
 Run in terminal
 > cd /FUNMAT/server/
+----------
 > npm install
+----------
 > node app.js
 
 ----------
